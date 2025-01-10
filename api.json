@@ -20,21 +20,7 @@
 		
 		
 		
-		{
-		"key": "subaibai",
-		"name": "🌥素白白┃直链",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "国产剧,番剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/subaibai.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
+{
 	"key": "mogg",
 	"name": "🤹‍♂️木偶┃UC盘",
 	"type": 5,
@@ -48,7 +34,8 @@
 	"filterPlayFileKeywords": "",
 	"keepPlayFileKeywords": "",
 	"selectedPlayer": "0"
-	},{
+	},
+		{
 	"key": "huban",
 	"name": "🐅虎斑┃影视",
 	"type": 5,
@@ -63,21 +50,7 @@
 	"keepPlayFileKeywords": "",
 	"selectedPlayer": "0"
 	},
-	{
-	"key": "baipiao",
-	"name": "🐯白嫖┃影视",
-	"type": 5,
-	"searchable": 1,
-	"filterClass": "",
-	"firstClass": "",
-	"filterPlay": "",
-	"firstPlay": "",
-	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/baipiao.js",
-	"flagable": 0,
-	"filterPlayFileKeywords": "",
-	"keepPlayFileKeywords": "",
-	"selectedPlayer": "0"
-	},	
+
 		
 		{
 		"key": "wogg",
@@ -108,20 +81,6 @@
             "keepPlayFileKeywords": "",
             "selectedPlayer": "0"
         },{
-	"key": "xlys",
-	"name": "🦸修罗┃影视",
-	"type": 5,
-	"searchable": 1,
-	"filterClass": "",
-	"firstClass": "",
-	"filterPlay": "",
-	"firstPlay": "",
-	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/xlys01.js",
-	"flagable": 0,
-	"filterPlayFileKeywords": "",
-	"keepPlayFileKeywords": "",
-	"selectedPlayer": "0"
-	},{
 		"key": "labi",
 		"name": "🖍蜡笔┃网盘",
 		"type": 5,
@@ -220,20 +179,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "nanf",
-		"name": "🀁南风短剧┃夸克",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/nanf.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "cloud189",
 		"name": "🐋雷鲸┃天翼",
 		"type": 5,
@@ -247,7 +192,43 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
+	},
+		
+		
+		
+			{
+	"key": "baipiao",
+	"name": "🐯白嫖┃影视",
+	"type": 5,
+	"searchable": 1,
+	"filterClass": "",
+	"firstClass": "",
+	"filterPlay": "",
+	"firstPlay": "",
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/baipiao.js",
+	"flagable": 0,
+	"filterPlayFileKeywords": "",
+	"keepPlayFileKeywords": "",
+	"selectedPlayer": "0"
+	},	
+		
+		{
+		"key": "nanf",
+		"name": "🀁南风短剧┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/nanf.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},
+		
+		{
 		"key": "bilimv",
 		"name": "🎙MV┃哔哩",
 		"type": 5,
@@ -288,7 +269,31 @@
     		"flagable": 0,
     		"filterPlayFileKeywords": "",
     		"keepPlayFileKeywords": ""
-  	},{
+  	},
+		
+		
+		
+		{
+	"key": "xlys",
+	"name": "🦸修罗┃影视",
+	"type": 5,
+	"searchable": 1,
+	"filterClass": "",
+	"firstClass": "",
+	"filterPlay": "",
+	"firstPlay": "",
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/xlys01.js",
+	"flagable": 0,
+	"filterPlayFileKeywords": "",
+	"keepPlayFileKeywords": "",
+	"selectedPlayer": "0"
+	},
+		
+		
+		
+		
+		
+		{
 		"key": "cfkj86",
 		"name": "🥇金牌┃直链",
 		"type": 5,
@@ -316,7 +321,29 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
+	},
+		
+				{
+		"key": "subaibai",
+		"name": "🌥素白白┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "国产剧,番剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/subaibai.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},
+		
+		
+		
+		
+		
+		{
 		"key": "kuyun",
 		"name": "☁️酷云┃直链",
 		"type": 5,
