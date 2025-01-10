@@ -41,7 +41,24 @@
 	"filterPlayFileKeywords": "",
 	"keepPlayFileKeywords": "",
 	"selectedPlayer": "0"
-	},{
+	},
+	{
+	"key": "baipiao",
+	"name": "🐯白嫖┃影视",
+	"type": 5,
+	"searchable": 1,
+	"filterClass": "",
+	"firstClass": "",
+	"filterPlay": "",
+	"firstPlay": "",
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/baipiao.js",
+	"flagable": 0,
+	"filterPlayFileKeywords": "",
+	"keepPlayFileKeywords": "",
+	"selectedPlayer": "0"
+	},	
+		
+		{
 		"key": "wogg",
 		"name": "🧸玩偶┃网盘",
 		"type": 5,
