@@ -711,9 +711,9 @@ async function homeContent() {
 
     // 定义分类数据
     const classData = [
-      { "type_id": 30,  "type_name": "白嫖电影" },
-      { "type_id": 25,  "type_name": "白嫖剧集" },
-      { "type_id": 20,  "type_name": "白嫖动漫" },
+      { "type_id": 24,  "type_name": "臻彩" },
+      { "type_id": 21,  "type_name": "小夜剧集" },
+      { "type_id": 20,  "type_name": "小夜动漫" },
       { "type_id": 21, "type_name": "国产动漫" },
       { "type_id": 22, "type_name": "日韩动漫" },
       { "type_id": 23, "type_name": "欧美动漫" }
