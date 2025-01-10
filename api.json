@@ -1,5 +1,26 @@
 {
-	"sites": [{
+	"sites": [
+		{
+		"key": "douban",
+		"name": "👍豆瓣┃推荐",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/douban.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+       		"recommend": "1"
+	},
+		
+		
+		
+		
+		
+		{
 		"key": "subaibai",
 		"name": "🌥素白白┃直链",
 		"type": 5,
@@ -72,20 +93,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
-		"key": "douban",
-		"name": "👍豆瓣┃推荐",
-		"type": 5,
-		"searchable": 0,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/alkt279/jbox/refs/heads/main/json/douban.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-       		"recommend": "1"
 	},{
             "key": "texiafan",
             "name": "🌾下饭┃网盘",
