@@ -711,8 +711,8 @@ async function homeContent() {
 
     // 定义分类数据
     const classData = [
-      { "type_id": 30,  "type_name": "下饭电影" },
-      { "type_id": 25,  "type_name": "下饭剧集" },
+      { "type_id": 1,  "type_name": "下饭电影" },
+      { "type_id": 2,  "type_name": "下饭剧集" },
       { "type_id": 20,  "type_name": "下版动漫" },
       { "type_id": 21, "type_name": "国产动漫" },
       { "type_id": 22, "type_name": "日韩动漫" },
